@@ -98,60 +98,44 @@ A Python utility for batch OCR processing, turning scanned PDFs into searchable 
 
 ---
 
-## 04 — What I care about
+## 04 — Engineering principles
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**01**
+<sub>01 / FOUNDATION</sub>
 
-<br>
+### Reliability
 
-<sub>RELIABILITY</sub>
-
-<br>
-
-Failures, retries, recovery
+Design for failure. Build with retries, graceful recovery, and predictable behaviour.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**02**
+<sub>02 / EFFICIENCY</sub>
 
-<br>
+### Performance
 
-<sub>PERFORMANCE</sub>
-
-<br>
-
-Latency, throughput, efficiency
+Make latency, throughput, and resource efficiency part of the design—not afterthoughts.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**03**
+<sub>03 / SYSTEMS</sub>
 
-<br>
+### Data
 
-<sub>DATA</sub>
-
-<br>
-
-Modelling, indexing, caching
+Model deliberately. Use indexing, caching, and the right storage patterns to keep data useful at scale.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**04**
+<sub>04 / OUTCOMES</sub>
 
-<br>
+### Product
 
-<sub>PRODUCT</sub>
-
-<br>
-
-Useful outcomes, not complexity
+Choose the simplest solution that solves the real problem and creates measurable value.
 
 </td>
 </tr>
