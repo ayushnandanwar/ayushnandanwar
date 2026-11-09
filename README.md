@@ -12,6 +12,10 @@
   <br><br>
 
   <samp>BACKEND ENGINEERING&nbsp; / &nbsp;PRODUCT THINKING&nbsp; / &nbsp;ADTECH</samp>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=760&height=42&lines=Designing+systems+that+scale.;Building+reliable+backend+experiences.;Turning+complexity+into+simple+solutions.;Always+learning.+Always+shipping." alt="Animated introduction">
 </div>
 
 ---
@@ -178,4 +182,6 @@ Useful outcomes, not complexity
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://ayushnandanwar.github.io/">VISIT PORTFOLIO ↗</a>
 
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:60A5FA,100:FB7185&height=110&section=footer" width="100%" alt="Animated gradient wave footer">
 </div>
