@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
 <title id="title">Ayush Nandanwar — Backend engineering and product systems</title>
-<desc id="desc">A quiet, dark editorial engineering banner with a subtle grid, connected system nodes, and a cyan accent.</desc>
+<desc id="desc">A dark navy engineering banner with restrained grid detail, connected system nodes and high-contrast typography.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#090e17"/>
-    <stop offset="0.65" stop-color="#101b2b"/>
-    <stop offset="1" stop-color="#172538"/>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080e18"/>
+    <stop offset=".62" stop-color="#101c2d"/>
+    <stop offset="1" stop-color="#17273a"/>
   </linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#67e8f9"/>
@@ -15,30 +15,27 @@
     <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
   </pattern>
   <radialGradient id="glow">
-    <stop stop-color="#2563eb" stop-opacity=".2"/>
+    <stop stop-color="#2563eb" stop-opacity=".22"/>
     <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
   </radialGradient>
 </defs>
-<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="18" fill="url(#grid)"/>
-<circle cx="930" cy="172" r="300" fill="url(#glow)"/>
-<g fill="none" stroke="#7dd3fc" stroke-opacity=".45" stroke-width="1.5">
-  <path d="M760 78H890V140H1005V85H1110"/>
-  <path d="M790 270H900V220H1035V285H1140"/>
-  <path d="M890 140V190H960V220"/>
-  <path d="M1005 85V45H1100"/>
-  <path d="M1035 285V325H1120"/>
+<rect width="1200" height="420" rx="22" fill="url(#background)"/>
+<rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="205" r="300" fill="url(#glow)"/>
+<path d="M76 68V350" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<text x="112" y="178" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-2.4">AYUSH NANDANWAR</text>
+<text x="116" y="244" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="500">Backend Engineering · Product Systems · AdTech</text>
+<path d="M116 282H680" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="none" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="1.8">
+  <path d="M850 105H965V165H1080V102H1155"/>
+  <path d="M845 315H955V258H1075V320H1160"/>
+  <path d="M965 165V215H1030V258"/>
+  <path d="M1080 102V65H1150"/>
+  <path d="M1075 320V365H1145"/>
 </g>
-<g fill="#0b1220" stroke="url(#accent)" stroke-width="2">
-  <circle cx="760" cy="78" r="6"/><circle cx="890" cy="140" r="6"/><circle cx="1005" cy="85" r="6"/>
-  <circle cx="1110" cy="85" r="6"/><circle cx="790" cy="270" r="6"/><circle cx="900" cy="220" r="6"/>
-  <circle cx="1035" cy="285" r="6"/><circle cx="1140" cy="285" r="6"/><circle cx="960" cy="220" r="5"/>
+<g fill="#0b1220" stroke="url(#accent)" stroke-width="2.2">
+  <circle cx="850" cy="105" r="7"/><circle cx="965" cy="165" r="7"/><circle cx="1080" cy="102" r="7"/>
+  <circle cx="1155" cy="102" r="7"/><circle cx="845" cy="315" r="7"/><circle cx="955" cy="258" r="7"/>
+  <circle cx="1075" cy="320" r="7"/><circle cx="1160" cy="320" r="7"/><circle cx="1030" cy="258" r="6"/>
 </g>
-<path d="M76 58V302" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-<text x="108" y="78" fill="#7dd3fc" font-family="monospace" font-size="13" letter-spacing="4">ENGINEERING / FIELD NOTES</text>
-<text x="104" y="166" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="-2">AYUSH NANDANWAR</text>
-<text x="108" y="215" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Software Engineer · Backend &amp; Product Engineering</text>
-<path d="M108 250H570" stroke="url(#accent)" stroke-width="2"/>
-<text x="108" y="288" fill="#94a3b8" font-family="monospace" font-size="13" letter-spacing="2">ADTECH  /  DATA SYSTEMS  /  DISTRIBUTED WORKFLOWS</text>
-<text x="1110" y="325" text-anchor="end" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="2">PUNE · INDIA</text>
 </svg>
