@@ -23,13 +23,13 @@
 
 ### 01 / About me
 
-I'm a software engineer focused on **product engineering** and building systems that are practical, scalable, and maintainable. I enjoy working across the stack—from shaping product ideas and designing APIs to improving data workflows and delivering user-facing features.
+I'm a software engineer focused on **backend and product engineering**—designing APIs, data workflows, and reliable services. I enjoy solving problems around system boundaries, persistence, asynchronous processing, and performance.
 
 - 🚀 Building backend systems for **AdTech and MarTech** product experiences.
-- ⚙️ Focused on **backend architecture, distributed systems, databases, and performance**.
+- ⚙️ Focused on **API design, data modelling, distributed systems, and performance**.
+- 🔁 Interested in reliable asynchronous processing, idempotency, caching, and failure recovery.
 - 🧩 Comfortable moving between product thinking, engineering, and execution.
-- 🤖 Exploring how AI tools can improve software development and product workflows.
-- 🌱 Always learning, building, and iterating.
+- 🌱 Always learning through implementation, testing, and measured trade-offs.
 
 </td>
 <td width="50%" valign="top">
@@ -67,14 +67,15 @@ I'm a software engineer focused on **product engineering** and building systems 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 India PYQ Platform</h3>
-      A platform focused on helping students discover and practice previous-year questions for exams across India.
+      <h3>⚙️ <a href="https://github.com/ayushnandanwar/ayush-code-base">Relay — Event Processing API</a></h3>
+      A backend reference implementation exploring durable event acceptance, an outbox dispatcher, asynchronous workers, idempotency, and retry handling. Initial implementation in progress.
       <br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
       <br><br>
-      <a href="https://india-pyq-platform.vercel.app/">Live application ↗</a>
+      <a href="https://github.com/ayushnandanwar/ayush-code-base">Explore repository ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>⌨️ <a href="https://keyflows.github.io/">KeyFlows</a></h3>
@@ -100,7 +101,7 @@ I'm a software engineer focused on **product engineering** and building systems 
     </td>
     <td width="50%" valign="top">
       <h3>Backend engineering focus</h3>
-      API design · Data modelling · Caching · Distributed systems · Performance
+      API design · Data modelling · Idempotency · Async processing · Performance
       <br><br>
       A selection of the engineering areas I enjoy exploring and applying in production.
     </td>
