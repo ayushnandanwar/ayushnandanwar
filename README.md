@@ -87,32 +87,25 @@ I'm a software engineer focused on **product engineering** and building systems 
       <a href="https://keyflows.github.io/">Visit KeyFlows ↗</a>
     </td>
   </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🧰 <a href="https://github.com/ayushnandanwar/pdf-utils">PDF Utils</a></h3>
-        A Python utility for batch OCR processing that converts scanned PDFs into searchable documents using Tesseract and PyMuPDF.
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Tesseract-4B8BBE?style=flat-square" alt="Tesseract OCR">
-        <img src="https://img.shields.io/badge/PyMuPDF-2D6DB5?style=flat-square" alt="PyMuPDF">
-        <br><br>
-        <a href="https://github.com/ayushnandanwar/pdf-utils">Explore repository ↗</a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>⌨️ <a href="https://keyflows.github.io/">KeyFlows</a></h3>
-        A lightweight typing practice experience designed to help users build speed, accuracy, and consistency.
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript">
-        <br><br>
-        <a href="https://keyflows.github.io/">Visit KeyFlows ↗</a>
-      </td>
-    </tr>
-
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 <a href="https://github.com/ayushnandanwar/pdf-utils">PDF Utils</a></h3>
+      A Python utility for batch OCR processing that converts scanned PDFs into searchable documents using Tesseract and PyMuPDF.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Tesseract-4B8BBE?style=flat-square" alt="Tesseract OCR">
+      <img src="https://img.shields.io/badge/PyMuPDF-2D6DB5?style=flat-square" alt="PyMuPDF">
+      <br><br>
+      <a href="https://github.com/ayushnandanwar/pdf-utils">Explore repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend engineering focus</h3>
+      API design · Data modelling · Caching · Distributed systems · Performance
+      <br><br>
+      A selection of the engineering areas I enjoy exploring and applying in production.
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 04 / GitHub activity
