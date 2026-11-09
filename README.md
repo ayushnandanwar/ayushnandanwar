@@ -99,7 +99,7 @@
   <tr>
     <td colspan="2" valign="top">
 
-**MESSAGING & DATA TECHNOLOGIES**
+**DATA & DOCUMENT PROCESSING**
 
 Tesseract OCR &nbsp;·&nbsp; PyMuPDF &nbsp;·&nbsp; Pillow
 
