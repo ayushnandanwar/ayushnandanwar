@@ -1,183 +1,36 @@
-<!-- Ayush Nandanwar | Editorial engineering profile -->
-
+<!-- AYUSH NANDANWAR · DEVELOPER IDENTITY -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/main/assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Backend engineer building systems with intent">
-
-  <br>
-
-  <a href="https://ayushnandanwar.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ayush-nandanwar/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ayushnandanwar"><img src="https://img.shields.io/badge/GITHUB-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-  <br><br>
-
-  <samp>BACKEND ENGINEERING&nbsp; / &nbsp;PRODUCT THINKING&nbsp; / &nbsp;ADTECH</samp>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=760&height=42&lines=Designing+systems+that+scale.;Building+reliable+backend+experiences.;Turning+complexity+into+simple+solutions.;Always+learning.+Always+shipping." alt="Animated introduction">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Software Engineer" />
+  <p><strong>Build with intent. Think in systems.</strong></p>
+  <p>Backend-focused engineer building data-intensive products and dependable software.</p>
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## ENGINEERING INTERESTS
 
-### 01 — The way I build
-
-I’m a software engineer who enjoys making complex systems feel simple: clear APIs, dependable data flows, and backend services that keep working when real-world conditions get messy.
-
-I work across the path from **problem framing → system design → implementation → production learning**.
-
-- Designing backend services and data-intensive workflows.
-- Thinking through scale, latency, failure modes, and trade-offs.
-- Building pragmatic solutions that are observable and maintainable.
-- Connecting engineering decisions to actual product outcomes.
-
-</td>
-<td width="42%" valign="top">
-
-### 02 — Engineering palette
-
-**LANGUAGES**
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**BACKEND & DATA**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
-
-**PLATFORM & WORKFLOW**
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center"><kbd>Backend Engineering</kbd> &nbsp; <kbd>System Design</kbd> &nbsp; <kbd>Distributed Systems</kbd><br /><br /><kbd>AdTech</kbd> &nbsp; <kbd>Data Engineering</kbd> &nbsp; <kbd>Product Engineering</kbd></p>
 
 ---
 
-## 03 — Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⌨️ &nbsp;[KEYFLOWS](https://keyflows.github.io/)**
-
-A focused typing practice experience built around speed, accuracy, and consistency.
-
-<sub>HTML · CSS · JavaScript</sub>
-
-[Open project ↗](https://keyflows.github.io/)
-
-</td>
-<td width="50%" valign="top">
-
-**▤ &nbsp;[PDF UTILS](https://github.com/ayushnandanwar/pdf-utils)**
-
-A Python utility for batch OCR processing, turning scanned PDFs into searchable documents.
-
-<sub>Python · Tesseract · PyMuPDF</sub>
-
-[Explore repository ↗](https://github.com/ayushnandanwar/pdf-utils)
-
-</td>
-</tr>
-</table>
-
----
-
-## 04 — Engineering principles
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-<sub>01 / FOUNDATION</sub>
-
-### Reliability
-
-Design for failure. Build with retries, graceful recovery, and predictable behaviour.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>02 / EFFICIENCY</sub>
-
-### Performance
-
-Make latency, throughput, and resource efficiency part of the design—not afterthoughts.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>03 / SYSTEMS</sub>
-
-### Data
-
-Model deliberately. Use indexing, caching, and the right storage patterns to keep data useful at scale.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>04 / OUTCOMES</sub>
-
-### Product
-
-Choose the simplest solution that solves the real problem and creates measurable value.
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 — Activity, in motion
+## TECHNICAL SKILLS
 
 <div align="center">
-
-  <sub>CONTRIBUTIONS · REPOSITORY LANGUAGE MIX · STREAK</sub>
-
-  <br><br>
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushnandanwar&theme=github_dark" alt="GitHub contribution activity summary">
-
-  <br>
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushnandanwar&theme=github_dark" alt="GitHub profile statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushnandanwar&theme=github_dark" alt="Languages across repositories">
-
-  <br><br>
-
-  <img width="85%" src="https://streak-stats.demolab.com?user=ayushnandanwar&hide_border=true&theme=transparent&ring=38BDF8&fire=FB7185&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Contribution streak">
-
+  <p><sub>01 &nbsp; / &nbsp; LANGUAGES</sub><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" /> &nbsp; JavaScript &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="26" alt="Python" /> &nbsp; Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" height="26" alt="Java" /> &nbsp; Java</p>
+  <hr width="72%" />
+  <p><sub>02 &nbsp; / &nbsp; BACKEND & FRAMEWORKS</sub><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js" /> &nbsp; Node.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" height="26" alt="Express.js" /> &nbsp; Express.js</p>
+  <hr width="72%" />
+  <p><sub>03 &nbsp; / &nbsp; DATABASES</sub><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" height="26" alt="MongoDB" /> &nbsp; MongoDB &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" height="26" alt="MySQL" /> &nbsp; MySQL &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" height="26" alt="Redis" /> &nbsp; Redis</p>
+  <hr width="72%" />
+  <p><sub>04 &nbsp; / &nbsp; CLOUD & INFRASTRUCTURE</sub><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26" alt="AWS" /> &nbsp; AWS &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" height="26" alt="Google Cloud" /> &nbsp; Google Cloud &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" height="26" alt="Docker" /> &nbsp; Docker</p>
+  <hr width="72%" />
+  <p><sub>05 &nbsp; / &nbsp; DATA TECHNOLOGIES</sub><br /><br />Kafka &nbsp;·&nbsp; Pub/Sub &nbsp;·&nbsp; BigQuery &nbsp;·&nbsp; Redshift</p>
+  <hr width="72%" />
+  <p><sub>06 &nbsp; / &nbsp; FRONTEND & TOOLS</sub><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" height="26" alt="React" /> &nbsp; React &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" height="26" alt="HTML5" /> &nbsp; HTML5 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" height="26" alt="CSS3" /> &nbsp; CSS3 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" height="26" alt="Git" /> &nbsp; Git</p>
 </div>
 
 ---
 
-<div align="center">
+## CONNECT
 
-### Build with intent. Scale with care.
-
-<sub>Open to thoughtful conversations about backend systems, product engineering, and the craft of building software.</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/ayush-nandanwar/">CONNECT ON LINKEDIN ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://ayushnandanwar.github.io/">VISIT PORTFOLIO ↗</a>
-
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:60A5FA,100:FB7185&height=110&section=footer" width="100%" alt="Animated gradient wave footer">
-</div>
+<p align="center"><a href="https://ayushnandanwar.github.io/">PORTFOLIO ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ayush-nandanwar-630214210/">LINKEDIN ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:ayushnandanwar003@gmail.com">EMAIL ↗</a></p>
