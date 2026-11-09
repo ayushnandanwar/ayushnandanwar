@@ -67,17 +67,6 @@ I'm a software engineer focused on **backend and product engineering**—designi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/ayushnandanwar/ayush-code-base">Relay — Event Processing API</a></h3>
-      A backend reference implementation exploring durable event acceptance, an outbox dispatcher, asynchronous workers, idempotency, and retry handling. Initial implementation in progress.
-      <br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-      <br><br>
-      <a href="https://github.com/ayushnandanwar/ayush-code-base">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>⌨️ <a href="https://keyflows.github.io/">KeyFlows</a></h3>
       A lightweight typing practice experience designed to help users build speed, accuracy, and consistency.
       <br><br>
