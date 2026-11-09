@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/main/assets/profile-banner.svg"
+    src="./assets/profile-banner.svg"
     width="100%"
     alt="Ayush Nandanwar — Software Engineer. Make complexity legible. Make systems dependable."
   />
