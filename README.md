@@ -1,183 +1,132 @@
-<!-- Ayush Nandanwar | Editorial engineering profile -->
+<!--
+  Ayush Nandanwar — GitHub profile
+  Design: editorial / systems engineering
+  Keep claims evidence-backed; avoid unverifiable performance metrics.
+-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/main/assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Backend engineer building systems with intent">
+  <img src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/main/assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Backend engineering and product systems" />
 
-  <br>
-
-  <a href="https://ayushnandanwar.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ayush-nandanwar/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ayushnandanwar"><img src="https://img.shields.io/badge/GITHUB-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-  <br><br>
-
-  <samp>BACKEND ENGINEERING&nbsp; / &nbsp;PRODUCT THINKING&nbsp; / &nbsp;ADTECH</samp>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=760&height=42&lines=Designing+systems+that+scale.;Building+reliable+backend+experiences.;Turning+complexity+into+simple+solutions.;Always+learning.+Always+shipping." alt="Animated introduction">
+  <p>
+    <a href="https://ayushnandanwar.github.io/">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/ayush-nandanwar/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:ayushnandanwar003@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## Building backend systems for products that move
 
-### 01 — The way I build
+I'm **Ayush Nandanwar**, a software engineer focused on backend and product engineering in the **AdTech** ecosystem.
 
-I’m a software engineer who enjoys making complex systems feel simple: clear APIs, dependable data flows, and backend services that keep working when real-world conditions get messy.
+I work across the engineering lifecycle: understanding product constraints, shaping technical designs, building backend modules, and taking features through deployment and monitoring. I’m especially interested in systems where data, asynchronous workflows, and reliability meet real product needs.
 
-I work across the path from **problem framing → system design → implementation → production learning**.
+Currently, I’m a **Senior Software Engineer at Osmos.ai**, where my work includes backend module ownership, system design, and client-facing product delivery.
 
-- Designing backend services and data-intensive workflows.
-- Thinking through scale, latency, failure modes, and trade-offs.
-- Building pragmatic solutions that are observable and maintainable.
-- Connecting engineering decisions to actual product outcomes.
+> I care about the decisions behind the code: data contracts, failure modes, operational clarity, and the simplest architecture that meets the product’s needs.
 
-</td>
-<td width="42%" valign="top">
+## Engineering focus
 
-### 02 — Engineering palette
+| Area | What I work on |
+| --- | --- |
+| **Backend engineering** | Node.js, Express, Python, Java, REST APIs, asynchronous and event-driven services |
+| **Data & databases** | SQL, MySQL, MongoDB, Redis, BigQuery, Redshift, Solr |
+| **Messaging & streaming** | Kafka, GCP Pub/Sub |
+| **Cloud & infrastructure** | AWS, Google Cloud Platform, Docker |
+| **Frontend & product delivery** | JavaScript, React, HTML, CSS; end-to-end feature delivery |
+| **Engineering practices** | API design, data modeling, indexing, caching, system design, scalability, reliability, monitoring |
 
-**LANGUAGES**
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+## Selected work
 
-**BACKEND & DATA**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
+A few public projects that show different parts of my engineering journey. Professional systems built at work are described in the experience section; confidential implementation details are not included here.
 
-**PLATFORM & WORKFLOW**
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### [Club Management System — MITAOE](https://github.com/ayushnandanwar/clubs-mitaoe)
+A web application for students to discover college clubs, follow activity updates, and manage club membership.
 
-</td>
-</tr>
-</table>
+- **Engineering:** authentication, role-oriented club workflows, member management, profile flows, server-rendered pages.
+- **Stack:** Node.js, Express, MongoDB/Mongoose, Pug, JWT.
+- **Context:** collaborative college project.
 
----
+### [Hack2Bot — AI Chatbot](https://github.com/ayushnandanwar/Hack2Bot-AI-Chatbot)
+A hackathon-built chatbot application that combines account flows with an AI-powered chat experience.
 
-## 03 — Selected work
+- **Engineering:** API integration, authentication, password hashing, persistence, and a server-rendered chat interface.
+- **Stack:** Node.js, Express, MongoDB/Mongoose, OpenAI API, EJS/Pug, JWT, bcrypt.
+- **Context:** team hackathon project.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [E-Cell MITAOE Website](https://github.com/ayushnandanwar/ecell-website)
+The website repository for MITAOE’s entrepreneurship cell, built as a community-facing web presence.
 
-**⌨️ &nbsp;[KEYFLOWS](https://keyflows.github.io/)**
+- **Engineering:** responsive content presentation and a multi-page static website.
+- **Stack:** HTML, CSS, JavaScript.
+- **Live site:** [E-Cell MITAOE](https://ayushnandanwar.github.io/ecell-website/).
 
-A focused typing practice experience built around speed, accuracy, and consistency.
+### [PDF Utils](https://github.com/ayushnandanwar/pdf-utils)
+A Python utility for converting scanned or image-based PDFs into searchable documents through OCR.
 
-<sub>HTML · CSS · JavaScript</sub>
+- **Engineering:** PDF processing, OCR extraction, and organized output.
+- **Stack:** Python, Tesseract OCR, PyMuPDF, Pillow.
+- **Note:** a focused utility project rather than a production-scale document platform.
 
-[Open project ↗](https://keyflows.github.io/)
+### [Personal Portfolio](https://github.com/ayushnandanwar/ayushnandanwar.github.io)
+The source for my personal portfolio, bringing together professional experience, technical focus, and selected work.
 
-</td>
-<td width="50%" valign="top">
+- **Focus:** communicating product engineering experience and project context.
+- **Live site:** [ayushnandanwar.github.io](https://ayushnandanwar.github.io/).
 
-**▤ &nbsp;[PDF UTILS](https://github.com/ayushnandanwar/pdf-utils)**
+## Experience
 
-A Python utility for batch OCR processing, turning scanned PDFs into searchable documents.
+### Osmos.ai · Pune, India
+**Senior Software Engineer** · Jan 2026 — Present  
+Primary ownership of backend modules, system design, and client-facing projects.
 
-<sub>Python · Tesseract · PyMuPDF</sub>
+**Software Engineer** · Jun 2024 — Dec 2025  
+Backend systems and product architecture, including Ad Packages.
 
-[Explore repository ↗](https://github.com/ayushnandanwar/pdf-utils)
+**SDE Intern** · Jan 2024 — Jun 2024  
+Campaign Debugger and backend services.
 
-</td>
-</tr>
-</table>
+### Colgate-Palmolive · Mumbai, India
+**RPA Developer Intern** · Jul 2023 — Dec 2023  
+Automated business workflows using UiPath.
 
----
+### Internsland · Remote
+**Web Developer Intern** · Mar 2022 — Jun 2022  
+Built web applications using Node.js, Express.js, and authentication workflows.
 
-## 04 — Engineering principles
+## How I approach engineering
 
-<table>
-<tr>
-<td width="25%" valign="top">
+- **Start with constraints.** Clarify the user problem, workload, correctness needs, and operational boundaries before choosing a design.
+- **Make data intentional.** Choose clear ownership, access patterns, indexes, and retention boundaries.
+- **Design for failure.** Consider retries, idempotency, partial failure, and graceful degradation in asynchronous workflows.
+- **Measure before optimizing.** Use latency, throughput, resource usage, and operational signals to guide improvements.
+- **Keep systems understandable.** Prefer explicit contracts, maintainable components, and documentation that helps the next engineer.
 
-<sub>01 / FOUNDATION</sub>
-
-### Reliability
-
-Design for failure. Build with retries, graceful recovery, and predictable behaviour.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>02 / EFFICIENCY</sub>
-
-### Performance
-
-Make latency, throughput, and resource efficiency part of the design—not afterthoughts.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>03 / SYSTEMS</sub>
-
-### Data
-
-Model deliberately. Use indexing, caching, and the right storage patterns to keep data useful at scale.
-
-</td>
-<td width="25%" valign="top">
-
-<sub>04 / OUTCOMES</sub>
-
-### Product
-
-Choose the simplest solution that solves the real problem and creates measurable value.
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 — Activity, in motion
+## GitHub activity
 
 <div align="center">
-
-  <sub>CONTRIBUTIONS · REPOSITORY LANGUAGE MIX · STREAK</sub>
-
-  <br><br>
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushnandanwar&theme=github_dark" alt="GitHub contribution activity summary">
-
-  <br>
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushnandanwar&theme=github_dark" alt="GitHub profile statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushnandanwar&theme=github_dark" alt="Languages across repositories">
-
-  <br><br>
-
-  <img width="85%" src="https://streak-stats.demolab.com?user=ayushnandanwar&hide_border=true&theme=transparent&ring=38BDF8&fire=FB7185&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Contribution streak">
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayushnandanwar&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </div>
 
+<sub>Activity visual is provided by a third-party service and may be unavailable independently of GitHub. Repository and contribution details remain available through the GitHub profile itself.</sub>
+
 ---
 
 <div align="center">
-
-### Build with intent. Scale with care.
-
-<sub>Open to thoughtful conversations about backend systems, product engineering, and the craft of building software.</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/ayush-nandanwar/">CONNECT ON LINKEDIN ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://ayushnandanwar.github.io/">VISIT PORTFOLIO ↗</a>
-
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:60A5FA,100:FB7185&height=110&section=footer" width="100%" alt="Animated gradient wave footer">
+  <strong>Build with intent. Design for what happens next.</strong>
+  <br />
+  <sub>For conversations about backend systems, product engineering, and AdTech:</sub>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/ayush-nandanwar/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ayushnandanwar003@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://ayushnandanwar.github.io/">Portfolio</a>
 </div>
