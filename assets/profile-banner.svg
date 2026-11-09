@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ayush Nandanwar — Product and Backend Engineering</title>
+<desc id="desc">A dark, minimal technology-inspired banner with blue and coral accents, abstract architecture lines, and the tagline Engineering systems that scale.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091522"/><stop offset=".55" stop-color="#101f32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#2563eb" stop-opacity=".34"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".10" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="980" cy="160" r="290" fill="url(#glow)"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".8">
+  <path d="M760 70h100v55h80v-35h100"/>
+  <path d="M810 270h85v-55h100v-65h105"/>
+  <path d="M940 95v40h55v55h80"/>
+  <circle cx="760" cy="70" r="5" fill="#60a5fa"/><circle cx="1040" cy="90" r="5" fill="#fb7185"/>
+  <circle cx="810" cy="270" r="5" fill="#60a5fa"/><circle cx="1100" cy="150" r="5" fill="#fb7185"/>
+</g>
+<g opacity=".55" fill="#cbd5e1">
+  <circle cx="900" cy="70" r="2"/><circle cx="1080" cy="250" r="2"/><circle cx="740" cy="205" r="2"/><circle cx="1125" cy="70" r="2"/>
+</g>
+<rect x="72" y="58" width="4" height="244" rx="2" fill="url(#accent)"/>
+<text x="105" y="108" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">PRODUCT ENGINEERING  /  ADTECH</text>
+<text x="100" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="750" letter-spacing="-2">AYUSH NANDANWAR</text>
+<text x="104" y="238" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" letter-spacing="1">Engineering systems that scale.</text>
+<g transform="translate(105 282)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2">
+  <text fill="#93c5fd">BACKEND SYSTEMS</text><circle cx="178" cy="-4" r="3" fill="#fb7185"/>
+  <text x="194" fill="#cbd5e1">DISTRIBUTED ARCHITECTURE</text><circle cx="414" cy="-4" r="3" fill="#fb7185"/>
+  <text x="430" fill="#cbd5e1">PRODUCT THINKING</text>
+</g>
+</svg>
