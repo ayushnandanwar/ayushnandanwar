@@ -1,41 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
-<title id="title">Ayush Nandanwar — Backend engineering and product systems</title>
-<desc id="desc">A dark navy engineering banner with restrained grid detail, connected system nodes and high-contrast typography.</desc>
-<defs>
-  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#080e18"/>
-    <stop offset=".62" stop-color="#101c2d"/>
-    <stop offset="1" stop-color="#17273a"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#67e8f9"/>
-    <stop offset="1" stop-color="#60a5fa"/>
-  </linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-    <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
-  </pattern>
-  <radialGradient id="glow">
-    <stop stop-color="#2563eb" stop-opacity=".22"/>
-    <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-  </radialGradient>
-</defs>
-<rect width="1200" height="420" rx="22" fill="url(#background)"/>
-<rect width="1200" height="420" rx="22" fill="url(#grid)"/>
-<circle cx="1010" cy="205" r="300" fill="url(#glow)"/>
-<path d="M76 68V350" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-<text x="112" y="178" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-2.4">AYUSH NANDANWAR</text>
-<text x="116" y="244" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="500">Backend Engineering · Product Systems · AdTech</text>
-<path d="M116 282H680" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
-<g fill="none" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="1.8">
-  <path d="M850 105H965V165H1080V102H1155"/>
-  <path d="M845 315H955V258H1075V320H1160"/>
-  <path d="M965 165V215H1030V258"/>
-  <path d="M1080 102V65H1150"/>
-  <path d="M1075 320V365H1145"/>
-</g>
-<g fill="#0b1220" stroke="url(#accent)" stroke-width="2.2">
-  <circle cx="850" cy="105" r="7"/><circle cx="965" cy="165" r="7"/><circle cx="1080" cy="102" r="7"/>
-  <circle cx="1155" cy="102" r="7"/><circle cx="845" cy="315" r="7"/><circle cx="955" cy="258" r="7"/>
-  <circle cx="1075" cy="320" r="7"/><circle cx="1160" cy="320" r="7"/><circle cx="1030" cy="258" r="6"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Nandanwar — Software Engineer</title>
+  <desc id="desc">A restrained charcoal banner with precise typography, a soft violet-blue glow, fine grid lines and an abstract connected systems motif.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b10"/>
+      <stop offset=".58" stop-color="#10141d"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b9cff"/>
+      <stop offset=".52" stop-color="#8bceff"/>
+      <stop offset="1" stop-color="#c4a7ff"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#657bff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#657bff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#cbd5e1" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0e14" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0b0e14" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="url(#base)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <circle cx="990" cy="170" r="330" fill="url(#aura)"/>
+  <path d="M70 66V294" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="108" y="151" fill="#f4f6fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="-2.4">AYUSH NANDANWAR</text>
+  <text x="111" y="204" fill="#aeb8ca" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500" letter-spacing="3.8">SOFTWARE ENGINEER</text>
+  <path d="M111 235H420" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" opacity=".9"/>
+  <text x="111" y="270" fill="#7f8ba1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.15">BACKEND SYSTEMS  /  PRODUCT ENGINEERING  /  DATA</text>
+
+  <g transform="translate(830 42)" fill="none" stroke="url(#accent)" stroke-width="1.25">
+    <circle cx="150" cy="136" r="104" opacity=".15"/>
+    <circle cx="150" cy="136" r="72" opacity=".25"/>
+    <circle cx="150" cy="136" r="38" opacity=".4"/>
+    <path d="M150 32V240M46 136H254M76 62L224 210M224 62L76 210" opacity=".2"/>
+    <path d="M150 64L222 136L150 208L78 136Z" opacity=".45"/>
+    <path d="M150 98L188 136L150 174L112 136Z" opacity=".8"/>
+  </g>
+  <g fill="#101722" stroke="url(#accent)" stroke-width="1.8">
+    <circle cx="980" cy="74" r="5"/>
+    <circle cx="1052" cy="178" r="5"/>
+    <circle cx="980" cy="282" r="5"/>
+    <circle cx="908" cy="178" r="5"/>
+    <circle cx="980" cy="142" r="4"/>
+    <circle cx="1018" cy="178" r="4"/>
+    <circle cx="980" cy="214" r="4"/>
+    <circle cx="942" cy="178" r="4"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#dbeafe" stroke-opacity=".09"/>
 </svg>
