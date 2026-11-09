@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/main/assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Backend engineering and product systems" />
+  <img src="https://raw.githubusercontent.com/ayushnandanwar/ayushnandanwar/portfolio/profile-readme-refresh/assets/profile-banner.svg" width="100%" alt="Ayush Nandanwar — Backend engineering and product systems" />
 
   <p>
     <a href="https://ayushnandanwar.github.io/">Portfolio</a>
