@@ -27,7 +27,7 @@ My focus is on **data-intensive systems, event-driven workflows, database engine
 ## Professional highlights
 
 - **5+ backend modules owned** at Osmos.ai.
-- **One promotion** during my tenure, progressing from SDE Intern to Software Engineer and then Sr. Software Engineer.
+- **One promotion** recorded during my Osmos.ai tenure; role progression: SDE Intern → Software Engineer → Sr. Software Engineer.
 - **End-to-end delivery:** technical design, development, deployment and monitoring.
 - **Product areas:** Ad Packages, Campaign Debugger and client-facing backend projects.
 
