@@ -162,10 +162,22 @@ Useful outcomes, not complexity
 ## 05 — Activity, in motion
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushnandanwar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=38BDF8&icon_color=FB7185&text_color=94A3B8" alt="GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnandanwar&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" alt="Most used languages">
+
+  <sub>CONTRIBUTIONS · REPOSITORY LANGUAGE MIX · STREAK</sub>
+
   <br><br>
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushnandanwar&theme=github_dark" alt="GitHub contribution activity summary">
+
+  <br>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushnandanwar&theme=github_dark" alt="GitHub profile statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushnandanwar&theme=github_dark" alt="Languages across repositories">
+
+  <br><br>
+
   <img width="85%" src="https://streak-stats.demolab.com?user=ayushnandanwar&hide_border=true&theme=transparent&ring=38BDF8&fire=FB7185&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Contribution streak">
+
 </div>
 
 ---
